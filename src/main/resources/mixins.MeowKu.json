@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.lovelyneru.MeowKu.mixin.mixins",
+  "refmap": "mixins.MeowKu.refmap.json",
+  "mixins": [
+    "MixinBlockLiquid",
+    "MixinEntityPlayer",
+    "MixinEntityRenderer",
+    "MixinFontRenderer",
+    "MixinGuiScreen",
+    "MixinMinecraft",
+    "MixinModelPlayer",
+    "MixinEntityPlayerSP",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinLocaleFont",
+    "MixinWorld",
+    "MixinEntity",
+    "MixinMovementInputFromOptions",
+    "MixinLayerBipedArmor",
+    "MixinTileEntityEnchantmentTableRenderer",
+    "accessors.IC00Handshake",
+    "accessors.IServerAddress"
+  ]
+
+}

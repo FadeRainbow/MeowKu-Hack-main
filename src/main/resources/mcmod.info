@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "meowku",
+    "name": "MeowKu",
+    "description": "Meow Meow Meow kotlin and java client",
+    "version": "0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "mojang.png",
+    "url": "NO url",
+    "updateUrl": "0.1",
+    "authorList": [
+      "Cute Dev:lovelyneru"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
